@@ -1,0 +1,23 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "Building a Simple File Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miraz-Uddin/file-server.git"
+  },
+  "keywords": [],
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miraz-Uddin/file-server/issues"
+  },
+  "homepage": "https://github.com/Miraz-Uddin/file-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
