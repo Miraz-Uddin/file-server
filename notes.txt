@@ -1,0 +1,2 @@
+download from: assets.folder.1@gmail.com
+location: \src\assets\img
